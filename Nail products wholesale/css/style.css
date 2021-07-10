@@ -58,3 +58,27 @@ the browser window is 600px wide or less
 /* 
 Header decoration ended here
 ==========================>*/
+
+/*==================================================*/
+
+/* 
+footer decoration start here
+==========================>*/
+.c-footer {
+    overflow: hidden;
+    background-color: #151516fb;
+    padding: 20px 10px;
+}
+.c-footer img {
+    width: 20px;
+    height: 20px;
+}
+.c-footer h4 {
+    color: rgba(255, 255, 255, 0.6);
+}
+.c-footer p {
+    color: rgba(255, 255, 255, 0.6);
+}
+/* 
+footer decoration ended here
+==========================>*/
