@@ -66,7 +66,7 @@ Header decoration ended here
     background-color: white;
     padding: 10px;
   }
-  .grid-item {
+.grid-item {
     background-color: #A6A6A6;
     border: 1px solid rgba(0, 0, 0, 0.8);
     padding: 20px;
@@ -74,14 +74,24 @@ Header decoration ended here
     text-align: center;
   }
 
-  /*
-  Production section ended here
-  ========================>*/
-
-  .footer {
+/* 
+footer decoration start here
+==========================>*/
+.c-footer {
+    overflow: hidden;
     background-color: #151516fb;
     padding: 20px 10px;
-    color:white;
-    text-align: center;
-
-  }
+}
+.c-footer img {
+    width: 20px;
+    height: 20px;
+}
+.c-footer h4 {
+    color: rgba(255, 255, 255, 0.6);
+}
+.c-footer p {
+    color: rgba(255, 255, 255, 0.6);
+}
+/* 
+footer decoration ended here
+==========================>*/
